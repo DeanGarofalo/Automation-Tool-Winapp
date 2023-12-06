@@ -3,7 +3,7 @@
 ![Screenshot 2023-12-05 161433](https://github.com/DeanGarofalo/Automation-Tool-Winapp/assets/49959557/d6209b6c-3e81-42d2-9b9d-57614c59a5ba)
 
 This is a showcase of an application I built in 2022 to serve a very specific workflow for my colleagues. It's designed to perform various infrastructure tasks that would have had to been done manually by a user and now would be automated by this application. 
-I'm choosing to not publish the code for this but to showcase what the Automation tool did. If you would like to get an ideal how it worked, please check out my Python version. It was written to imitate this and is pretty much how this was coded apart from a GUI and in another language as a concept.
+I'm choosing to not publish the code for this but to showcase what the Automation tool did. If you would like to get an ideal how it worked, please check out my [Python version here](https://github.com/DeanGarofalo/Automation-Tool). It was written to imitate this and is pretty much how this was coded apart from a GUI and in another language as a concept.
 
 
 # What does it take in?
